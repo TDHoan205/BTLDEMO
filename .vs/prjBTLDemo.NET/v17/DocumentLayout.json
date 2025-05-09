@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|c:\\users\\hoan\\onedrive\\documents\\c# prac\\l\u1EADp tr\u00ECnh .net\\prjbtldemo.net\\prjbtldemo.net\\views\\formchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|solutionrelative:prjbtldemo.net\\views\\formchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjbtldemo.net\\viewmodels\\chitiethoadonvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|solutionrelative:prjbtldemo.net\\viewmodels\\chitiethoadonvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjbtldemo.net\\viewmodels\\hoadonvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|solutionrelative:prjbtldemo.net\\viewmodels\\hoadonvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjbtldemo.net\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|solutionrelative:prjbtldemo.net\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjbtldemo.net\\views\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|solutionrelative:prjbtldemo.net\\views\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjbtldemo.net\\views\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|solutionrelative:prjbtldemo.net\\views\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjbtldemo.net\\views\\formhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|solutionrelative:prjbtldemo.net\\views\\formhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjbtldemo.net\\viewmodels\\baseviewsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|solutionrelative:prjbtldemo.net\\viewmodels\\baseviewsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjbtldemo.net\\viewmodels\\sanphamvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|solutionrelative:prjbtldemo.net\\viewmodels\\sanphamvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjbtldemo.net\\views\\formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|solutionrelative:prjbtldemo.net\\views\\formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjbtldemo.net\\views\\formhoadon2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|solutionrelative:prjbtldemo.net\\views\\formhoadon2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjbtldemo.net\\views\\formhoadon2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|solutionrelative:prjbtldemo.net\\views\\formhoadon2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjbtldemo.net\\views\\formhoadon2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|solutionrelative:prjbtldemo.net\\views\\formhoadon2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjbtldemo.net\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9624A5A1-9CC7-48DB-A320-275A39EDCAAF}|prjBTLDemo.NET\\prjBTLDemo.NET.csproj|solutionrelative:prjbtldemo.net\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormChiTietHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\Views\\FormChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "prjBTLDemo.NET\\Views\\FormChiTietHoaDon.cs",
+              "ToolTip": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\Views\\FormChiTietHoaDon.cs",
+              "RelativeToolTip": "prjBTLDemo.NET\\Views\\FormChiTietHoaDon.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:50:08.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChiTietHoaDonVM.cs",
+              "DocumentMoniker": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\ViewModels\\ChiTietHoaDonVM.cs",
+              "RelativeDocumentMoniker": "prjBTLDemo.NET\\ViewModels\\ChiTietHoaDonVM.cs",
+              "ToolTip": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\ViewModels\\ChiTietHoaDonVM.cs",
+              "RelativeToolTip": "prjBTLDemo.NET\\ViewModels\\ChiTietHoaDonVM.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAArwEkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:49:28.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "prjBTLDemo.NET\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "prjBTLDemo.NET\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAABgAAACAz91E14wYwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:44:45.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\Views\\FormHoaDon.cs",
+              "RelativeDocumentMoniker": "prjBTLDemo.NET\\Views\\FormHoaDon.cs",
+              "ToolTip": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\Views\\FormHoaDon.cs [Design]",
+              "RelativeToolTip": "prjBTLDemo.NET\\Views\\FormHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:43:00.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormHoaDon.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\Views\\FormHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "prjBTLDemo.NET\\Views\\FormHoaDon.Designer.cs",
+              "ToolTip": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\Views\\FormHoaDon.Designer.cs",
+              "RelativeToolTip": "prjBTLDemo.NET\\Views\\FormHoaDon.Designer.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAswI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:39:25.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseViewsModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\ViewModels\\BaseViewsModel.cs",
+              "RelativeDocumentMoniker": "prjBTLDemo.NET\\ViewModels\\BaseViewsModel.cs",
+              "ToolTip": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\ViewModels\\BaseViewsModel.cs",
+              "RelativeToolTip": "prjBTLDemo.NET\\ViewModels\\BaseViewsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:59:22.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\Views\\FormHoaDon.cs",
+              "RelativeDocumentMoniker": "prjBTLDemo.NET\\Views\\FormHoaDon.cs",
+              "ToolTip": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\Views\\FormHoaDon.cs",
+              "RelativeToolTip": "prjBTLDemo.NET\\Views\\FormHoaDon.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAkwEgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:55:20.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoaDonVM.cs",
+              "DocumentMoniker": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\ViewModels\\HoaDonVM.cs",
+              "RelativeDocumentMoniker": "prjBTLDemo.NET\\ViewModels\\HoaDonVM.cs",
+              "ToolTip": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\ViewModels\\HoaDonVM.cs",
+              "RelativeToolTip": "prjBTLDemo.NET\\ViewModels\\HoaDonVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:52:58.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SanPhamVM.cs",
+              "DocumentMoniker": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\ViewModels\\SanPhamVM.cs",
+              "RelativeDocumentMoniker": "prjBTLDemo.NET\\ViewModels\\SanPhamVM.cs",
+              "ToolTip": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\ViewModels\\SanPhamVM.cs",
+              "RelativeToolTip": "prjBTLDemo.NET\\ViewModels\\SanPhamVM.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:52:34.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\Views\\FormSanPham.cs",
+              "RelativeDocumentMoniker": "prjBTLDemo.NET\\Views\\FormSanPham.cs",
+              "ToolTip": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\Views\\FormSanPham.cs [Design]",
+              "RelativeToolTip": "prjBTLDemo.NET\\Views\\FormSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:50:33.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormHoaDon2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\Views\\FormHoaDon2.Designer.cs",
+              "RelativeDocumentMoniker": "prjBTLDemo.NET\\Views\\FormHoaDon2.Designer.cs",
+              "ToolTip": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\Views\\FormHoaDon2.Designer.cs",
+              "RelativeToolTip": "prjBTLDemo.NET\\Views\\FormHoaDon2.Designer.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:17:03.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormHoaDon2.cs",
+              "DocumentMoniker": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\Views\\FormHoaDon2.cs",
+              "RelativeDocumentMoniker": "prjBTLDemo.NET\\Views\\FormHoaDon2.cs",
+              "ToolTip": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\Views\\FormHoaDon2.cs",
+              "RelativeToolTip": "prjBTLDemo.NET\\Views\\FormHoaDon2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:16:38.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormHoaDon2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\Views\\FormHoaDon2.cs",
+              "RelativeDocumentMoniker": "prjBTLDemo.NET\\Views\\FormHoaDon2.cs",
+              "ToolTip": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\Views\\FormHoaDon2.cs [Design]",
+              "RelativeToolTip": "prjBTLDemo.NET\\Views\\FormHoaDon2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:16:21.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\Models\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "prjBTLDemo.NET\\Models\\ChiTietHoaDon.cs",
+              "ToolTip": "C:\\Users\\Hoan\\OneDrive\\Documents\\C# prac\\L\u1EADp tr\u00ECnh .NET\\prjBTLDemo.NET\\prjBTLDemo.NET\\Models\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "prjBTLDemo.NET\\Models\\ChiTietHoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:10:46.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
